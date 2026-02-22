@@ -1,5 +1,7 @@
 # HepatitisC_Unsupervides_Learning_Study
 
+## Project Abstract
+
 ### Introduction to the topic of Hepatitis C and motivation for the analysis
 
 Hepatitis C is a chronic viral infection, caused by the Hepatitis C virus. This virus primarely affects the liver, becoming chronic 70% of times at an initial infection. It can progress silently over the years and lead to sever complications such as fibrosis, cirrhosis, or hepatocellular carcinoma.<a link= "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c">[1]</a>
